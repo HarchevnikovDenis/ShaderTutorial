@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DissolveMonkey
+  m_Name: Dissolve
   m_Shader: {fileID: -6465566751694194690, guid: 6d07d5109767f8d4ea38d705844ef646,
     type: 3}
   m_ShaderKeywords: 
@@ -50,7 +50,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_941E51CB: 0.015
-    - Vector1_A5CD9AAD: 30
+    - Vector1_A5CD9AAD: 40
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -73,7 +73,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_136D988A: {r: 6.650981, g: 0.4178627, b: 2.288533, a: 0}
+    - Color_136D988A: {r: 8.209424, g: 0.34851316, b: 7.1380305, a: 0}
     - Color_76D3EC3D: {r: 0.9481957, g: 0.64794105, b: 0, a: 0}
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
